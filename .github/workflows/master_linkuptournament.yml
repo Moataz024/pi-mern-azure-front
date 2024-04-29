@@ -53,4 +53,4 @@ jobs:
           app-name: 'linkuptournament'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD424C6A84E549D7BA7F5005C9CEA98A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10D535D040CC4C60A964622F7C628A0B }}
